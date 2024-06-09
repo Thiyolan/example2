@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFinalCalculatorApp</string>
+    <string name="enter_two_numbers">Enter two numbers</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="division">Division</string>
+    <string name="multiplication" />
+    <string name="Multiplication">Multiplication</string>
+    <string name="Division">Division</string>
+    <string name="square_root">Square Root</string>
+    <string name="power">Power</string>
+    <string name="textview">TextView</string>
+    <string name="statistics_functions">Statistics Functions</string>
+</resources>
